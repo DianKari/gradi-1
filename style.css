@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1500px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header {
+    background-color: #333333;
+    color: azure;
+}
+
+.logo {}
+
+.header__logo {}
+
+.menu {
+    display: flex;
+    gap: 70px;
+
+}
+
+.menu__function {}
+
+.menu-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.about {}
+
+.container {}
+
+.about__title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.about__subtite {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.807);
+    font-weight: 500;
+    padding-bottom: 65px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #33333317;
+    max-width: 2700px;
+    width: 100%;
+    padding: 80px 40px;
+    margin-bottom: 160px;
+}
+
+.about__guessed {
+    font-weight: 700;
+    font-size: 35px;
+
+
+}
+
+.about__text {
+    max-width: 620px;
+    font-size: 19px;
+    color: #000000c1;
+}
+
+
+.team {
+    display: block;
+}
+
+.wrapper {
+    max-width: 980px;
+    display: flex;
+}
+
+.team__leadership {
+    text-align: center;
+    font-size: 40px;
+}
+
+.team__section-subtitle {
+    text-align: center;
+    max-width: 90%;
+}
+
+
+.img.list-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.img__team {}
+
+.team.photo.title {}
+
+.team.photo.subtitle {}
+
+.img.list-2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.wrappper2 {
+display: flex;
+justify-content: space-between;         
+}
+
+.footer__img {
+    width: 40%;
+}
+
+.about-gradi {
+ 
+}
+
+.footer__title {}
+
+.footer__subtitle {}
